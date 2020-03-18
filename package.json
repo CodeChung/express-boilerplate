@@ -14,11 +14,21 @@
   "author": "Harry Chung",
   "license": "MIT",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.4",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
-    "helmet": "^3.15.0",
-    "morgan": "^1.9.1"
+    "generate-password": "^1.5.1",
+    "helmet": "^3.21.3",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.20.10",
+    "logger": "0.0.1",
+    "mariadb": "^2.2.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.4",
+    "xss": "^1.0.6"
   },
   "devDependencies": {
     "chai": "^4.2.0",
