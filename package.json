@@ -22,7 +22,7 @@
     "generate-password": "^1.5.1",
     "helmet": "^3.21.3",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.20.10",
+    "knex": "^2.4.0",
     "logger": "0.0.1",
     "mariadb": "^2.2.0",
     "morgan": "^1.9.1",
